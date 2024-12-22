@@ -1,1 +1,1 @@
-# SearchWithBing
+# BingSearchApp
